@@ -1,8 +1,25 @@
-### Notes
+# Personal Site
+
+## Notes
 
 - make sure you're logged in to Firebase: firebase login/logout
 - must build project before deploying to see changes: npm run build
 - to deploy changes live: firebase deploy
+
+## How to Deploy
+
+To deploy the project to the web:
+
+```bash
+cd personal-site/
+
+# Make changes to the site, then build
+npm run build
+
+# Login and deploy the changes to Firebase
+firebase login
+firebase deploy
+```
 
 # Getting Started with Create React App
 
