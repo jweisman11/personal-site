@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 export default function Home() {
   return (
    <div className="flex">
-    <Button>Hello</Button>
+    <Button>Hello World</Button>
    </div>
   );
 }
