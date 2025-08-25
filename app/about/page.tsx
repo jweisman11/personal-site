@@ -25,7 +25,7 @@ export default function About() {
         <section className="mb-12">
           <h2 className="text-2xl font-semibold text-gray-800 mb-4">Introduction</h2>
           <p className="text-gray-600 leading-relaxed">
-            Welcome to my personal page. Here you'll find information about my professional journey, educational background, and interests.
+            Welcome to my personal page. Here you will find information about my professional journey, educational background, and interests.
           </p>
         </section>
 
