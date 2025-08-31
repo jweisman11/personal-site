@@ -6,7 +6,7 @@ export default function Home() {
     <div className="container mx-auto px-4 py-16">
       <div className="max-w-3xl">
         <h1 className="text-4xl font-bold tracking-tight sm:text-6xl mb-6">
-          Hi, I'm Jeff Weisman
+          Hi, I&apos;m Jeff Weisman
         </h1>
         <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
           Welcome to my personal website. Explore my projects, read my blog, 
