@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
-import { ExternalLink, Github, Calendar, Code, Rocket, Clock } from "lucide-react";
+import { ExternalLink, Github, Code, Rocket, Clock } from "lucide-react";
 
 interface Project {
   id: string;

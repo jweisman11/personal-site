@@ -121,7 +121,7 @@ export default function TechStackPage() {
             </div>
 
             <div className="grid md:grid-cols-2 gap-8">
-              {techCategories.map((category, index) => (
+              {techCategories.map((category) => (
                 <div
                   key={category.title}
                   className="bg-card border rounded-xl p-8 shadow-sm hover:shadow-lg transition-all duration-300 group"
