@@ -8,10 +8,10 @@ const nextConfig: NextConfig = {
   // Enable React strict mode
   reactStrictMode: true,
 
-  // Enable SWC compiler for faster builds
-  swcMinify: true,
-
-
+  // Configure Turbopack workspace root
+  turbopack: {
+    root: __dirname,
+  },
 };
 
 export default nextConfig;
